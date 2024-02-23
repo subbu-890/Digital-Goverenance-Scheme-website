@@ -1,0 +1,1 @@
+This repository contains the source code for the official website of the Digital Government Scheme. The Digital Government Scheme aims to provide citizens with convenient access to government services and information through digital platforms.
